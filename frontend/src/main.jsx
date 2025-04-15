@@ -18,5 +18,4 @@ createRoot(document.getElementById("root")).render(
     </UserContext>
   </CaptainContext>
 );
-//not used a redux toolkit because it is not needed for this project
-//and it is a simple project and react context is enough for this project
+// this project to designing purpose to i used a tailwind css
