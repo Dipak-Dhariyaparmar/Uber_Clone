@@ -91,5 +91,3 @@ const FinishRide = (props) => {
 };
 
 export default FinishRide;
-
-// this is a finish component for a ride in a taxi booking application.
