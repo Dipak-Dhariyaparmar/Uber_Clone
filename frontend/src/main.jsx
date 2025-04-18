@@ -18,4 +18,3 @@ createRoot(document.getElementById("root")).render(
     </UserContext>
   </CaptainContext>
 );
-// this project to designing purpose to i used a tailwind css
