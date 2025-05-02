@@ -64,3 +64,4 @@ const WaitingForDriver = (props) => {
 };
 
 export default WaitingForDriver;
+// this component is used to display the waiting for driver screen in the app. It shows the driver's name, vehicle details, OTP, pickup and destination addresses, and fare information. The component also includes a button to cancel the ride request.
