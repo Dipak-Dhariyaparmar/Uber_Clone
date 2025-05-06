@@ -75,3 +75,4 @@ module.exports.logoutCaptain = async (req, res, next) => {
 
   res.status(200).json({ message: "Logout successfully" });
 };
+// this controller is a captailn controller to handle a captain all functionality
