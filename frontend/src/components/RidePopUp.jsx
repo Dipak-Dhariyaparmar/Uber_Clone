@@ -81,3 +81,5 @@ const RidePopUp = (props) => {
 };
 
 export default RidePopUp;
+
+// this component is used to display the ride popup when a new ride is available. It shows the user's name, pickup and destination locations, fare, and provides options to accept or ignore the ride. The component uses props to receive data and functions from its parent component.

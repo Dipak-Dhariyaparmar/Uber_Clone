@@ -87,3 +87,5 @@ captainSchema.statics.hashPassword = async function (password) {
 const captainModel = mongoose.model("captain", captainSchema);
 
 module.exports = captainModel;
+
+// this code defines a Mongoose schema for a "captain" entity in a ride-sharing application. The schema includes fields for the captain's name, email, password, vehicle details, and location. It also includes methods for generating authentication tokens and hashing passwords. The model is then exported for use in other parts of the application.
