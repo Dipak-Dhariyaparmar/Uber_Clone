@@ -7,7 +7,7 @@ import LiveTracking from "../components/LiveTracking";
 
 const Riding = () => {
   const location = useLocation();
-  const { ride } = location.state || {}; // Retrieve ride data
+  const { ride } = location.state || {}; // Retrieve ride data from a location
   const { socket } = useContext(SocketContext);
   const navigate = useNavigate();
 

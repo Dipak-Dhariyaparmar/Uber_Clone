@@ -31,11 +31,11 @@ const rideSchema = new mongoose.Schema({
 
   duration: {
     type: Number,
-  }, // in seconds
+  }, // in seconds logic
 
   distance: {
     type: Number,
-  }, // in meters
+  }, // in meters logic
 
   paymentID: {
     type: String,
@@ -55,3 +55,5 @@ const rideSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model("ride", rideSchema);
+
+// this component is a ride schema model
