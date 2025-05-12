@@ -40,3 +40,5 @@ const CaptainProtectWrapper = ({ children }) => {
 };
 
 export default CaptainProtectWrapper;
+
+// this page is a captailnprotect wraper component

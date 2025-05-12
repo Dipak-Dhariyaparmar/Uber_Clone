@@ -132,4 +132,3 @@ const UserSignup = () => {
 };
 
 export default UserSignup;
-// this component is a signup form for a user. It uses React hooks to manage the state of the form inputs and axios to make a POST request to the server to create a new user. The component also uses the UserDataContext to manage the user data and navigate to the home page after successful signup. The form includes input fields for first name, last name, email, and password, and a button to submit the form. There are also links to login if the user already has an account.

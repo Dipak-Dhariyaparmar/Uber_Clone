@@ -53,7 +53,7 @@ const Home = () => {
   socket.on("ride-started", (ride) => {
     console.log("ride");
     setWaitingForDriver(false);
-    navigate("/riding", { state: { ride } }); // Updated navigate to include ride data
+    navigate("/riding", { state: { ride } });
   });
 
   const handlePickupChange = async (e) => {
@@ -343,3 +343,4 @@ const Home = () => {
 };
 
 export default Home;
+// this component is a home component

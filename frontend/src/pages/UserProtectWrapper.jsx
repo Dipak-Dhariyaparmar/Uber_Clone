@@ -41,4 +41,3 @@ const UserProtectWrapper = ({ children }) => {
 };
 
 export default UserProtectWrapper;
-// this componen this is a protected route for the user
