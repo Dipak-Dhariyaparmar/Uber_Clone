@@ -34,5 +34,3 @@ router.get("/profile", authMiddleware.authUser, userController.getUserProfile);
 router.get("/logout", authMiddleware.authUser, userController.logoutUser);
 
 module.exports = router;
-
-// this routes is a user route

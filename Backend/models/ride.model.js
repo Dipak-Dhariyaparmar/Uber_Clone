@@ -55,5 +55,3 @@ const rideSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model("ride", rideSchema);
-
-// this component is a ride schema model
