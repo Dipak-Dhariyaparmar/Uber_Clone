@@ -90,5 +90,3 @@ module.exports.getCaptainsInTheRadius = async (ltd, lng, radius) => {
 
   return captains;
 };
-
-// this function is used to get the distance and time between two coordinates

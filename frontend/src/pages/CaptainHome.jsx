@@ -150,3 +150,5 @@ const CaptainHome = () => {
 };
 
 export default CaptainHome;
+
+// this component is a captain home to handle a all functionalty related

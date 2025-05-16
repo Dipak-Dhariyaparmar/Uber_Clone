@@ -184,4 +184,3 @@ module.exports.endRide = async ({ rideId, captain }) => {
 
   return ride;
 };
-// this is a rude service comment
