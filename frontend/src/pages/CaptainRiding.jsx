@@ -74,3 +74,5 @@ const CaptainRiding = () => {
 };
 
 export default CaptainRiding;
+
+// This code defines a React component for a "Captain Riding" page in a ride-sharing application.

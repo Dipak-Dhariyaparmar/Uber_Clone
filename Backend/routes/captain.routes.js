@@ -54,5 +54,3 @@ router.get(
 );
 
 module.exports = router;
-
-// this routes is a captain to handle a all rides

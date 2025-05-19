@@ -50,5 +50,3 @@ const LookingForDriver = (props) => {
 };
 
 export default LookingForDriver;
-
-// this component is used to show the user that the app is looking for a driver for them. It shows the pickup and destination locations, as well as the fare for the ride. The user can click on the arrow icon at the top to close the component.
