@@ -73,3 +73,5 @@ const Riding = () => {
 };
 
 export default Riding;
+
+// this page is used to show the ride details and live tracking of the ride

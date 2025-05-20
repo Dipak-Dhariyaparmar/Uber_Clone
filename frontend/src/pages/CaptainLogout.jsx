@@ -23,3 +23,4 @@ export const CaptainLogout = () => {
 };
 
 export default CaptainLogout;
+// this component is used to log out the captain
