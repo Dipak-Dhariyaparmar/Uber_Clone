@@ -99,5 +99,3 @@ const UserLogin = () => {
 };
 
 export default UserLogin;
-
-// this component is used to login the user

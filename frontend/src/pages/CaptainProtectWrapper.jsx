@@ -40,5 +40,3 @@ const CaptainProtectWrapper = ({ children }) => {
 };
 
 export default CaptainProtectWrapper;
-
-// this component is used to protect the captain routes
