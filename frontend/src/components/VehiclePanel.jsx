@@ -95,5 +95,3 @@ const VehiclePanel = (props) => {
 };
 
 export default VehiclePanel;
-
-// this is a React component that displays a vehicle selection panel for a ride-hailing app.

@@ -14,13 +14,10 @@ const LocationSearchPanel = ({
     } else if (activeField === "destination") {
       setDestination(suggestion);
     }
-    // setVehiclePanel(true)
-    // setPanelOpen(false)
   };
 
   return (
     <div>
-      {/* Display fetched suggestions */}
       {suggestions.map((elem, idx) => (
         <div
           key={idx}
@@ -38,3 +35,5 @@ const LocationSearchPanel = ({
 };
 
 export default LocationSearchPanel;
+
+// this component is used to show the location search panel

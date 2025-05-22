@@ -66,3 +66,4 @@ const LiveTracking = () => {
 };
 
 export default LiveTracking;
+// this component is used to show the live tracking of the ride
