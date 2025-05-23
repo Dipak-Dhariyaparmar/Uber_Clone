@@ -64,5 +64,3 @@ const WaitingForDriver = (props) => {
 };
 
 export default WaitingForDriver;
-
-// // this component is used to show the waiting for driver panel

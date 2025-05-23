@@ -95,3 +95,5 @@ const VehiclePanel = (props) => {
 };
 
 export default VehiclePanel;
+
+// this component is used to display the vehicle panel in the ride booking process
