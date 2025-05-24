@@ -344,3 +344,7 @@ const Home = () => {
 
 export default Home;
 // this component is a home component
+// it is used to find a trip
+// it has a form to enter pickup and destination
+// it has a button to find trip
+// it has a panel to show the suggestions

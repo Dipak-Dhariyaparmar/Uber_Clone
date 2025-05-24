@@ -64,3 +64,5 @@ const WaitingForDriver = (props) => {
 };
 
 export default WaitingForDriver;
+
+// // this is a waiting for driver component that shows the ride details like pickup, destination, and fare. The data is passed as props from the parent component. The component is styled using Tailwind CSS classes. The component is exported as default. The component is used in the CaptainDashboard component to show the ride details when the user is waiting for a driver.

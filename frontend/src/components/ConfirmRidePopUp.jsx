@@ -114,3 +114,11 @@ const ConfirmRidePopUp = (props) => {
 };
 
 export default ConfirmRidePopUp;
+
+// this is a React component that renders a confirmation popup for a ride. It includes the following features:
+// 1. Displays the user's name and profile picture.
+// 2. Shows the pickup and destination locations, as well as the fare.
+// 3. Allows the user to enter an OTP (One Time Password) to confirm the ride.
+// 4. Includes a button to confirm the ride and another button to cancel the confirmation.
+// 5. Uses the useState hook to manage the OTP input state.
+// 6. Uses the useNavigate hook from react-router-dom to navigate to a different page after confirming the ride.
