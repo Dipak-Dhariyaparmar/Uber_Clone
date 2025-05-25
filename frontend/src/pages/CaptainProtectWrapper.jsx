@@ -40,5 +40,3 @@ const CaptainProtectWrapper = ({ children }) => {
 };
 
 export default CaptainProtectWrapper;
-
-// this is a wrapper component that protects the captain's routes. It checks if the user is logged in by checking the token in local storage. If the token is not present, it redirects the user to the login page. If the token is present, it fetches the captain's profile data from the server and sets it in the context. If there is an error while fetching the data, it removes the token from local storage and redirects the user to the login page. The component uses useEffect hook to perform side effects and useContext hook to access the context data. The component is exported as default.

@@ -95,9 +95,3 @@ const VehiclePanel = (props) => {
 };
 
 export default VehiclePanel;
-
-// this component is used to display the vehicle panel in the ride booking process
-
-// it shows the available vehicles and their details like name, image, time, and fare
-// it also allows the user to select a vehicle and proceed to the next step
-// the component is styled using tailwind css classes

@@ -66,6 +66,3 @@ const LiveTracking = () => {
 };
 
 export default LiveTracking;
-
-// This code is a React component that uses the Google Maps API to display a map with a marker indicating the user's current location. It uses the `@react-google-maps/api` library to handle the Google Maps integration. The component fetches the user's current position using the Geolocation API and updates the marker's position on the map as the user moves. The map is centered on the user's current location, and it updates every 10 seconds to reflect any changes in position.
-// The component is wrapped in a `LoadScript` component that loads the Google Maps API script with the provided API key. The `GoogleMap` component is used to render the map, and the `Marker` component is used to place a marker at the user's current location. The `containerStyle` object defines the width and height of the map container.
