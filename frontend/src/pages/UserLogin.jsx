@@ -99,3 +99,8 @@ const UserLogin = () => {
 };
 
 export default UserLogin;
+
+// This component handles user login functionality, allowing users to log in with their email and password.
+// It uses React hooks for state management and axios for making API requests.
+// It also provides a link to the signup page for new users and a button to switch to captain login.
+// This component handles user login functionality, allowing users to log in with their email and password.

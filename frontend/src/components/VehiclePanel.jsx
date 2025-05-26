@@ -95,3 +95,5 @@ const VehiclePanel = (props) => {
 };
 
 export default VehiclePanel;
+
+// This component displays a panel for selecting a vehicle type for a ride.

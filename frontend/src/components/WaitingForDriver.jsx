@@ -64,3 +64,5 @@ const WaitingForDriver = (props) => {
 };
 
 export default WaitingForDriver;
+
+// This component displays a message indicating that the user is waiting for a driver.

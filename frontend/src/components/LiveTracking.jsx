@@ -66,3 +66,5 @@ const LiveTracking = () => {
 };
 
 export default LiveTracking;
+
+// this component can be used in your application like this:
