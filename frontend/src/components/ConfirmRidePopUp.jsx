@@ -114,5 +114,3 @@ const ConfirmRidePopUp = (props) => {
 };
 
 export default ConfirmRidePopUp;
-
-// this component is used to confirm a ride by entering an OTP.

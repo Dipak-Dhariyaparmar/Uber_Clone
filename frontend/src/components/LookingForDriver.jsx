@@ -50,5 +50,3 @@ const LookingForDriver = (props) => {
 };
 
 export default LookingForDriver;
-
-// This component displays a message indicating that the user is looking for a driver.

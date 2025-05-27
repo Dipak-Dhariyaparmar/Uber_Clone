@@ -40,5 +40,3 @@ const CaptainProtectWrapper = ({ children }) => {
 };
 
 export default CaptainProtectWrapper;
-
-// This component serves as a wrapper to protect routes for the Captain, ensuring that the user is authenticated and has access to the necessary data.

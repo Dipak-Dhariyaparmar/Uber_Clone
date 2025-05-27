@@ -343,8 +343,3 @@ const Home = () => {
 };
 
 export default Home;
-
-// This code defines a React component for the home page of a ride-hailing application.
-// It includes functionality for searching locations, selecting vehicles, and confirming rides.
-// The component uses GSAP for animations and Axios for API requests.
-// It also integrates with a socket context for real-time updates on ride status.
