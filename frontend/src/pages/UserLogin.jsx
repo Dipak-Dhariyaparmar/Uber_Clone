@@ -99,3 +99,6 @@ const UserLogin = () => {
 };
 
 export default UserLogin;
+
+// This code defines a UserLogin component that allows users to log in to their account.
+// It uses React hooks to manage state and context for user data.

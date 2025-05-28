@@ -50,3 +50,6 @@ const LookingForDriver = (props) => {
 };
 
 export default LookingForDriver;
+
+// this component is used to display the details of a ride that is looking for a driver.
+// It shows the pickup and destination locations, as well as the fare for the ride.
