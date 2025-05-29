@@ -343,7 +343,3 @@ const Home = () => {
 };
 
 export default Home;
-
-// This is the main Home component for the ride-hailing application.
-// It includes the main layout, the search panel for pickup and destination,
-// and the vehicle selection and confirmation panels.

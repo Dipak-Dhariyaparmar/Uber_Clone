@@ -64,8 +64,3 @@ const WaitingForDriver = (props) => {
 };
 
 export default WaitingForDriver;
-
-// this component is used to display the details of a ride that is waiting for a driver.
-// It shows the driver's name, vehicle details, pickup and destination locations, and fare for the ride.
-// It also includes a button to close the waiting panel.
-// It is typically used in a ride-hailing application to inform the user about the driver assigned to their ride.

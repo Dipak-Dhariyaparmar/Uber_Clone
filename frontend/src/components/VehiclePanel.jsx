@@ -95,8 +95,3 @@ const VehiclePanel = (props) => {
 };
 
 export default VehiclePanel;
-
-// This component is used to display a panel for selecting a vehicle type for a ride.
-// It provides options for different vehicle types (car, motorcycle, auto) along with their estimated fares and details.
-// It allows the user to select a vehicle and proceed to confirm the ride.
-// It also includes a close button to hide the vehicle selection panel.

@@ -40,7 +40,3 @@ const CaptainProtectWrapper = ({ children }) => {
 };
 
 export default CaptainProtectWrapper;
-
-// This component is a wrapper that checks if the captain is logged in by verifying the token.
-// If the token is not present, it redirects to the captain login page. If the token is valid, it fetches the captain's profile and sets it in the context.
-// If the profile is successfully fetched, it renders the children components; otherwise, it redirects to the login page.

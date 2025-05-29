@@ -114,7 +114,3 @@ const ConfirmRidePopUp = (props) => {
 };
 
 export default ConfirmRidePopUp;
-
-// this component is used to confirm a ride by entering an OTP.
-// It displays the ride details and allows the user to confirm or cancel the ride.
-// It uses axios to send a request to the server to start the ride with the provided OTP.
