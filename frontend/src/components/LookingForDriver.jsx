@@ -50,3 +50,8 @@ const LookingForDriver = (props) => {
 };
 
 export default LookingForDriver;
+
+// this component displays the details of the ride that is being requested by the user.
+// it shows the pickup and destination locations, as well as the fare for the ride.
+// it also includes a button to close the panel and return to the previous screen.
+// it is used in the ride request flow to inform the user that a driver is being searched for.

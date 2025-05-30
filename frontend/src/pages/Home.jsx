@@ -343,3 +343,9 @@ const Home = () => {
 };
 
 export default Home;
+
+// this is the main page of the application where the user can find a trip by entering their pickup and destination locations.
+// it includes a panel for searching locations, a vehicle selection panel, and panels for confirming the ride and waiting for the driver.
+// it uses the GSAP library for animations and transitions between different panels.
+// it also uses the SocketContext to handle real-time updates for ride status and driver availability.
+// it is a functional component that manages the state of the application and handles user interactions.
