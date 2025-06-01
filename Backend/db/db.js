@@ -10,4 +10,4 @@ function connectToDb() {
 }
 
 module.exports = connectToDb;
-// this component is a  db connection
+// this file is a db connection
