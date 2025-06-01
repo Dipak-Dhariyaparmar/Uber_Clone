@@ -115,5 +115,3 @@ const ConfirmRidePopUp = (props) => {
 
 export default ConfirmRidePopUp;
 
-// this componenst is a confirm ride popup that appears when a captain wants to confirm a ride.
-// it shows the ride details and asks for OTP to confirm the ride.
