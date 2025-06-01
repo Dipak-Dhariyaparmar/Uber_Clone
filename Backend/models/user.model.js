@@ -48,3 +48,5 @@ userSchema.statics.hashPassword = async function (password) {
 const userModel = mongoose.model("user", userSchema);
 
 module.exports = userModel;
+
+// this file is a user model
