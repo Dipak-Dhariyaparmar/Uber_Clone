@@ -52,3 +52,5 @@ module.exports.getAutoCompleteSuggestions = async (req, res, next) => {
     res.status(500).json({ message: "Internal server error" });
   }
 };
+
+// this is a map controller
