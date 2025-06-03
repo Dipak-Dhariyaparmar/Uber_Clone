@@ -18,3 +18,4 @@ createRoot(document.getElementById("root")).render(
     </UserContext>
   </CaptainContext>
 );
+// this is a main component
