@@ -61,6 +61,8 @@ const App = () => {
         />
       </Routes>
     </div>
+
+    // this is a app component
   );
 };
 
