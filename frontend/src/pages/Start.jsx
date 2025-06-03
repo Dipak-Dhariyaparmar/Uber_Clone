@@ -25,5 +25,4 @@ const Start = () => {
 };
 
 export default Start;
-
-// this component is used to show the start screen of the app. It shows the logo and a button to continue to the login screen. The background is an image of a car on a road. The logo is the Uber logo. The button is black with white text and rounded corners. The button is centered on the screen.
+// this component is a start related
