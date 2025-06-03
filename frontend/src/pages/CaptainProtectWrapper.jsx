@@ -40,6 +40,7 @@ const CaptainProtectWrapper = ({ children }) => {
 };
 
 export default CaptainProtectWrapper;
+// this component is a CaptainProtectWrapper related
 
 // this component is a wrapper for the captain's pages that checks if the captain is logged in and has a valid token. If not, it redirects to the login page. It also fetches the captain's profile data and stores it in the context for use in other components.
 // it uses the CaptainDataContext to access and set the captain's data, and it uses axios to make API requests to the backend. If the token is invalid or expired, it removes the token from local storage and redirects to the login page.
