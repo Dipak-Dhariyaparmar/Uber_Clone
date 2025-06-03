@@ -100,8 +100,4 @@ const UserLogin = () => {
 
 export default UserLogin;
 
-// This component is a login page for users to access their accounts.
-// It includes fields for email and password, and a button to submit the login form.
-// Upon successful login, it stores the user data in context and local storage,
-// and redirects the user to the home page.
-// It also provides a link to the signup page for new users and a button to sign in as a captain.
+// This component is a user login page related
