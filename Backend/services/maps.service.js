@@ -90,3 +90,4 @@ module.exports.getCaptainsInTheRadius = async (ltd, lng, radius) => {
 
   return captains;
 };
+// this component is a captain related
