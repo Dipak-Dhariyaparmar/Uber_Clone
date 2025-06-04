@@ -180,6 +180,8 @@ module.exports.endRide = async ({ rideId, captain }) => {
     {
       status: "completed",
     }
+
+    // this component is a ride services related
   );
 
   return ride;
