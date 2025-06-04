@@ -28,4 +28,4 @@ router.get(
 
 module.exports = router;
 
-// This code defines the routes for handling map-related requests in an Express application.
+// This routes is a maps related
