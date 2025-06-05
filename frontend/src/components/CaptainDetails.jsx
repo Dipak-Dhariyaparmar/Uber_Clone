@@ -45,4 +45,3 @@ const CaptainDetails = () => {
 
 export default CaptainDetails;
 
-// this is a captain detaail component
