@@ -65,7 +65,6 @@ const RidePopUp = (props) => {
           >
             Accept
           </button>
-
           <button
             onClick={() => {
               props.setRidePopupPanel(false);
