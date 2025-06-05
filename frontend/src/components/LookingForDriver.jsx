@@ -12,7 +12,6 @@ const LookingForDriver = (props) => {
         <i className="text-3xl text-gray-200 ri-arrow-down-wide-line"></i>
       </h5>
       <h3 className="text-2xl font-semibold mb-5">Looking for a Driver</h3>
-
       <div className="flex gap-2 justify-between flex-col items-center">
         <img
           className="h-20"
