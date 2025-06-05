@@ -93,5 +93,4 @@ const VehiclePanel = (props) => {
     </div>
   );
 };
-
 export default VehiclePanel;
