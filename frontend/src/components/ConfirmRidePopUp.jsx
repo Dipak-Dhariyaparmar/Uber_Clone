@@ -83,7 +83,6 @@ const ConfirmRidePopUp = (props) => {
             </div>
           </div>
         </div>
-
         <div className="mt-6 w-full">
           <form onSubmit={submitHander}>
             <input
