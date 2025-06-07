@@ -343,4 +343,3 @@ const Home = () => {
 };
 
 export default Home;
-// this component is a home component  related
