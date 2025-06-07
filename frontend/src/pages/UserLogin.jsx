@@ -99,5 +99,3 @@ const UserLogin = () => {
 };
 
 export default UserLogin;
-
-// This component is a user login page related
