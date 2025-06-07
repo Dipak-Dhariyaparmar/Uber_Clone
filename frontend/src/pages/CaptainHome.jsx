@@ -146,7 +146,6 @@ const CaptainHome = () => {
         />
       </div>
     </div>
-    // this component is a captain home related
   );
 };
 
