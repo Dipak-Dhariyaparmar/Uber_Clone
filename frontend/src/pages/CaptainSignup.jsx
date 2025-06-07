@@ -198,5 +198,3 @@ const CaptainSignup = () => {
 };
 
 export default CaptainSignup;
-
-// This code defines a React component for a Captain Signup page related
