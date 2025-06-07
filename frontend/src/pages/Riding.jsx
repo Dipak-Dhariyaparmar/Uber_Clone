@@ -73,4 +73,3 @@ const Riding = () => {
 };
 
 export default Riding;
-// this component is a riding releated
