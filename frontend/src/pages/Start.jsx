@@ -25,3 +25,4 @@ const Start = () => {
 };
 
 export default Start;
+// this component is a captain start related
