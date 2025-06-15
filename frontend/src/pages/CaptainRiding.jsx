@@ -74,3 +74,4 @@ const CaptainRiding = () => {
 };
 
 export default CaptainRiding;
+// This component is related to captain riding
