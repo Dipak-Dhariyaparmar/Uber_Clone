@@ -27,5 +27,3 @@ router.get(
 );
 
 module.exports = router;
-
-// This routes is a maps related
