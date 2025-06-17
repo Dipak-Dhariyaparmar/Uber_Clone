@@ -62,4 +62,3 @@ router.post(
 );
 
 module.exports = router;
-// this routes is a ride related
