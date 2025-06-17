@@ -139,5 +139,3 @@ module.exports.endRide = async (req, res) => {
   }
   s;
 };
-
-// this is a ride controller
