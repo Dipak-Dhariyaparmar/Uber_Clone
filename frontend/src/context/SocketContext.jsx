@@ -29,4 +29,3 @@ const SocketProvider = ({ children }) => {
 };
 
 export default SocketProvider;
-// this is a socket context component
