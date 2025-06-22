@@ -24,4 +24,3 @@ export const UserLogout = () => {
 }
 
 export default UserLogout
-// This component is related to user logout
