@@ -23,4 +23,3 @@ const UserContext = ({ children }) => {
 }
 
 export default UserContext
-// this is a user context component
