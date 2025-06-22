@@ -40,4 +40,3 @@ const CaptainProtectWrapper = ({ children }) => {
 };
 
 export default CaptainProtectWrapper;
-// This component is related to captainprotected wrapper
