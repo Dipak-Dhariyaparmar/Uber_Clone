@@ -184,3 +184,4 @@ module.exports.endRide = async ({ rideId, captain }) => {
 
   return ride;
 };
+// This services is a ride related
