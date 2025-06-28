@@ -150,3 +150,4 @@ const CaptainHome = () => {
 };
 
 export default CaptainHome;
+// This page is a related to Captain home page dashbaord
