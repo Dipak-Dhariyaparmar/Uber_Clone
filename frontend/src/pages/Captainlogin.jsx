@@ -97,3 +97,4 @@ const Captainlogin = () => {
 };
 
 export default Captainlogin;
+// This page is a related to Captain login
