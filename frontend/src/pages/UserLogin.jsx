@@ -99,4 +99,3 @@ const UserLogin = () => {
 };
 
 export default UserLogin;
-// This page is a related to user login
