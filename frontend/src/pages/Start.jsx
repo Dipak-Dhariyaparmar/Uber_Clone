@@ -25,4 +25,3 @@ const Start = () => {
 };
 
 export default Start;
-// This page is a related to captain start ride related
