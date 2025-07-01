@@ -198,4 +198,3 @@ const CaptainSignup = () => {
 };
 
 export default CaptainSignup;
-// This page is a related to Captain sighnup
