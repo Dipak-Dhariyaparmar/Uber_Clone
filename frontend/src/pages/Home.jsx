@@ -343,4 +343,3 @@ const Home = () => {
 };
 
 export default Home;
-// This page is a related to Captain home page
