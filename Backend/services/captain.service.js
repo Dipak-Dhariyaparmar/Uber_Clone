@@ -38,4 +38,3 @@ module.exports.createCaptain = async ({
 
   return captain;
 };
-// This services is a captain related
