@@ -198,3 +198,4 @@ const CaptainSignup = () => {
 };
 
 export default CaptainSignup;
+// This component is a related to Captain signup
