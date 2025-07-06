@@ -137,5 +137,5 @@ module.exports.endRide = async (req, res) => {
   } catch (err) {
     return res.status(500).json({ message: err.message });
   }
-  s;
 };
+// This controller is a related to ride
