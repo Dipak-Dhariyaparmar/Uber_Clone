@@ -87,3 +87,4 @@ captainSchema.statics.hashPassword = async function (password) {
 const captainModel = mongoose.model("captain", captainSchema);
 
 module.exports = captainModel;
+// This model is related to captain 
