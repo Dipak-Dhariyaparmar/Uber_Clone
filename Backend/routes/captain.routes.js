@@ -54,3 +54,4 @@ router.get(
 );
 
 module.exports = router;
+// This route is related to the captain 
