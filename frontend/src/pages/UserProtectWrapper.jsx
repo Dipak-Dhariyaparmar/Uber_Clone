@@ -41,4 +41,3 @@ const UserProtectWrapper = ({ children }) => {
 };
 
 export default UserProtectWrapper;
-// This component is a related to ser protectect wrapper
