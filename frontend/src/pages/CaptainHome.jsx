@@ -150,4 +150,3 @@ const CaptainHome = () => {
 };
 
 export default CaptainHome;
-// This component is a related to Captain home
