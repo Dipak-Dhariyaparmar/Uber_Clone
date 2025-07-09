@@ -66,4 +66,3 @@ const LiveTracking = () => {
 };
 
 export default LiveTracking;
-// This is a LiveTracking related component
