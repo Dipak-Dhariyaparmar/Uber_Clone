@@ -80,4 +80,3 @@ const RidePopUp = (props) => {
 };
 
 export default RidePopUp;
-// This is a Ridepop-up related component
