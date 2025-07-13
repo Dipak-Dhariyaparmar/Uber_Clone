@@ -41,3 +41,4 @@ const UserProtectWrapper = ({ children }) => {
 };
 
 export default UserProtectWrapper;
+// This page is related to user protected wrapper
