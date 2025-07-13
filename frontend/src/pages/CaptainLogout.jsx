@@ -23,3 +23,4 @@ export const CaptainLogout = () => {
 };
 
 export default CaptainLogout;
+// This page is related to captain logout
