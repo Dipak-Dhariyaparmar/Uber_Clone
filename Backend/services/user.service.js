@@ -20,4 +20,3 @@ module.exports.createUser = async ({
 
   return user;
 };
-// This service is a related to user
