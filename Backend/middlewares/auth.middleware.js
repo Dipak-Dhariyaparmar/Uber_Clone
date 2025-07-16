@@ -54,3 +54,4 @@ module.exports.authCaptain = async (req, res, next) => {
     res.status(401).json({ message: "Unauthorized" });
   }
 };
+// This is a auth  related middleware
