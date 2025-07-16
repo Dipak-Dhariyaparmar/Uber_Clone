@@ -10,3 +10,4 @@ function connectToDb() {
 }
 
 module.exports = connectToDb;
+// This is a db related controller
