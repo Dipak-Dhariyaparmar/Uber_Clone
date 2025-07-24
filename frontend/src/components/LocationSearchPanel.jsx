@@ -35,3 +35,4 @@ const LocationSearchPanel = ({
 };
 
 export default LocationSearchPanel;
+// this component is related to location serach panel
