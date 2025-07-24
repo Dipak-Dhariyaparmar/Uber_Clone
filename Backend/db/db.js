@@ -9,5 +9,4 @@ function connectToDb() {
     .catch((err) => console.log(err));
 }
 
-module.exports = connectToDb;
-// This is a db related controller
+module.exports = connectToDb
