@@ -150,4 +150,3 @@ const CaptainHome = () => {
 };
 
 export default CaptainHome;
-// This page is related to captain home
