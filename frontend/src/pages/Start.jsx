@@ -25,4 +25,3 @@ const Start = () => {
 };
 
 export default Start;
-// This page is related to start
