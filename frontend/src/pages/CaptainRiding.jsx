@@ -74,4 +74,3 @@ const CaptainRiding = () => {
 };
 
 export default CaptainRiding;
-// This page is related to captain riding
