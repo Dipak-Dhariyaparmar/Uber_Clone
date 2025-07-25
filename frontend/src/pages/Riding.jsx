@@ -73,4 +73,3 @@ const Riding = () => {
 };
 
 export default Riding;
-// This page is related to riding
