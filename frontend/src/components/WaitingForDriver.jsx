@@ -63,4 +63,3 @@ const WaitingForDriver = (props) => {
 };
 
 export default WaitingForDriver;
-// This component is related to waiting for driver
