@@ -113,4 +113,3 @@ const ConfirmRidePopUp = (props) => {
 };
 
 export default ConfirmRidePopUp;
-// this component is related to confirm ride popup
