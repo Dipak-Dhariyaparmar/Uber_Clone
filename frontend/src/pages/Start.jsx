@@ -25,3 +25,4 @@ const Start = () => {
 };
 
 export default Start;
+// This component is related to start
