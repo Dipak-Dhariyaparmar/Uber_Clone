@@ -49,4 +49,3 @@ const LookingForDriver = (props) => {
 };
 
 export default LookingForDriver;
-// this component is related to looking for driver
