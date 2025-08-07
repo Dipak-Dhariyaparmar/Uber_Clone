@@ -89,3 +89,4 @@ module.exports.getCaptainsInTheRadius = async (ltd, lng, radius) => {
 
   return captains;
 };
+// This service is related to maps
