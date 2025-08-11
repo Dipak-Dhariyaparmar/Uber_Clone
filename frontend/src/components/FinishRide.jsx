@@ -91,4 +91,3 @@ const FinishRide = (props) => {
 };
 
 export default FinishRide;
-// This component is related to FinishRide
