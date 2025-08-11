@@ -73,4 +73,3 @@ const Riding = () => {
 };
 
 export default Riding;
-// This component is related to riding
