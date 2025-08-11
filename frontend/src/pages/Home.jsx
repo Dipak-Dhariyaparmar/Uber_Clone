@@ -343,4 +343,3 @@ const Home = () => {
 };
 
 export default Home;
-// This component is related to captain home
