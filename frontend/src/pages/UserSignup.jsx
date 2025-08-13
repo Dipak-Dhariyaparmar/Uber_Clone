@@ -132,4 +132,3 @@ const UserSignup = () => {
 };
 
 export default UserSignup;
-// This component is related to user signup
