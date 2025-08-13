@@ -343,3 +343,4 @@ const Home = () => {
 };
 
 export default Home;
+// This page  is a related to Home
