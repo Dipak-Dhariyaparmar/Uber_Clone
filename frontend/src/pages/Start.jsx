@@ -25,4 +25,5 @@ const Start = () => {
 };
 
 export default Start;
+
 // This page  is a related to start
