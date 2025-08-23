@@ -132,5 +132,3 @@ const UserSignup = () => {
 };
 
 export default UserSignup;
-
-// This page is a related to User signup
