@@ -60,5 +60,3 @@ const ConfirmRide = (props) => {
 };
 
 export default ConfirmRide;
-
-// This component is related to ConfirmRide
