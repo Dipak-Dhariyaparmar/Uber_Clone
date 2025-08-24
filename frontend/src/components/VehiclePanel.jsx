@@ -94,3 +94,8 @@ const VehiclePanel = (props) => {
   );
 };
 export default VehiclePanel;
+
+
+
+// This component is a related to VehiclePanel
+
