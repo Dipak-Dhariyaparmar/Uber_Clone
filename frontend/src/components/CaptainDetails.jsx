@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
++import React, { useContext } from "react";
 import { CaptainDataContext } from "../context/CapatainContext";
 
 const CaptainDetails = () => {
@@ -44,8 +44,3 @@ const CaptainDetails = () => {
 };
 
 export default CaptainDetails;
-
-
-
-
-// This component is related to CaptainDetails
