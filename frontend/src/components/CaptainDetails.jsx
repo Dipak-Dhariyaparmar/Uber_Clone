@@ -2,7 +2,7 @@
 import { CaptainDataContext } from "../context/CapatainContext";
 
 const CaptainDetails = () => {
-  const { captain } = useContext(CaptainDataContext)
+  const { captain } = useContext(CaptainDataContext);
 
   return (
     <div>
