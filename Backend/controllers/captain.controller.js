@@ -77,4 +77,4 @@ module.exports.logoutCaptain = async (req, res, next) => {
 };
 
 
-// This component is related to captains
+// This component is related to captain
