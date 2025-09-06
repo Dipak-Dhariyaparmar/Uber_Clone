@@ -114,4 +114,4 @@ const ConfirmRidePopUp = (props) => {
 
 export default ConfirmRidePopUp;
 
-// This component is related to ConfirmRidePopUps
+// This component is related to ConfirmRidePopUp
