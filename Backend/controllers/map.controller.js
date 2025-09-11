@@ -1,4 +1,4 @@
-// this component is related to maps
+// this component is related to map
 
 const mapService = require("../services/maps.service");
 const { validationResult } = require("express-validator");
