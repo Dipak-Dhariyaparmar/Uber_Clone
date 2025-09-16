@@ -1,4 +1,4 @@
-// this component is related to captain detailss
+// this component is related to captain details
 import React, { useContext } from "react";
 import { CaptainDataContext } from "../context/CapatainContext";
 
