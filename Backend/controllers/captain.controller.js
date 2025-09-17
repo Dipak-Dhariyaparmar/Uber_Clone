@@ -1,4 +1,4 @@
-// This component is related to captains
+// This component is related to captain
 
 const captainModel = require("../models/captain.model");
 const captainService = require("../services/captain.service");
