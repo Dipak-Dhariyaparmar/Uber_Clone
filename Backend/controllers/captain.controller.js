@@ -1,3 +1,5 @@
+// This component is related to captains
+
 const captainModel = require("../models/captain.model");
 const captainService = require("../services/captain.service");
 const blackListTokenModel = require("../models/blackListToken.model");
