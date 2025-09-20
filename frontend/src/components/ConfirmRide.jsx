@@ -1,4 +1,4 @@
-//This component is related to confirm rides
+//This component is related to confirm ride
 
 import React from "react";
 
