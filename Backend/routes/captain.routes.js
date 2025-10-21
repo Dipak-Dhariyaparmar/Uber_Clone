@@ -1,4 +1,4 @@
-//This routes is related to captains
+//This routes is related to captain
 
 const captainController = require("../controllers/captain.controller");
 const express = require("express");
