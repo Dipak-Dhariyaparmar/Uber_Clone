@@ -1,3 +1,5 @@
+//This routes is related to captains
+
 const captainController = require("../controllers/captain.controller");
 const express = require("express");
 const router = express.Router();
