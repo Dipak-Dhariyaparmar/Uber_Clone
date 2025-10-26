@@ -1,4 +1,4 @@
-// This component is related to finish ride
+// This component is related to finish rides
 
 
 import React from "react";
