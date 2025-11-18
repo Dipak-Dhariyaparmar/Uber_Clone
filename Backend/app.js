@@ -1,4 +1,4 @@
-//This file is main app including all configurations
+//This file is main app including all configuration
 
 const dotenv = require("dotenv");
 dotenv.config();
