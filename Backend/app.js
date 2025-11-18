@@ -1,3 +1,5 @@
+//This file is main app including all configurations
+
 const dotenv = require("dotenv");
 dotenv.config();
 const express = require("express");
