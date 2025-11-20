@@ -1,4 +1,4 @@
-//This service is related to user
+//This service is related to users
 
 
 const userModel = require("../models/user.model");
