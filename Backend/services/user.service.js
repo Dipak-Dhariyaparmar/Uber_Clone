@@ -1,3 +1,6 @@
+//This service is related to user
+
+
 const userModel = require("../models/user.model");
 
 module.exports.createUser = async ({
