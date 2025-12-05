@@ -1,3 +1,6 @@
+//This controller is related to ride
+
+
 const rideService = require("../services/ride.service");
 const { validationResult } = require("express-validator");
 const mapService = require("../services/maps.service");
