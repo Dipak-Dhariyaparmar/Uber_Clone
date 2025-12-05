@@ -1,4 +1,4 @@
-//This controller is related to rides
+//This controller is related to ride
 
 
 const rideService = require("../services/ride.service");
