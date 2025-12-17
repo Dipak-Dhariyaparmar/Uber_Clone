@@ -1,4 +1,4 @@
-//This component is related to dbs
+//This component is related to db
 
 const mongoose = require("mongoose");
 
