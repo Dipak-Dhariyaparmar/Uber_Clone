@@ -1,3 +1,5 @@
+//This component is related to db
+
 const mongoose = require("mongoose");
 
 function connectToDb() {
